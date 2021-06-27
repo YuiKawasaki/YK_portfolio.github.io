@@ -9,3 +9,11 @@
 ## 勉強中の言語
 - Python
 - JavaScript
+
+# Works
+- [GitHub]
+- [Qiita]
+
+# Contact
+
+# History
